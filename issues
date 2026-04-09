@@ -1,0 +1,7 @@
+Objetivo: Permitir que el personal registre entradas y salidas de materiales mediante escaneo QR/RFID.
+Justificación: El registro manual genera errores y duplicidad de datos.
+Pasos:
+- Integrar librería de lectura QR en frontend.
+- Conectar con base de datos para registrar movimientos.
+- Validar entradas/salidas con reglas de negocio.
+Exclusiones: No se cubrirá RFID de alta gama en esta versión.
